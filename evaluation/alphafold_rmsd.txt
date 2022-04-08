@@ -1,0 +1,187 @@
+WUHAN
+
+alpha_alphafold      RMSD =    0.897 (15054 atoms)
+beta_alphafold       RMSD =    0.941 (15188 atoms)
+delta_alphafold      RMSD =    0.274 (12977 atoms)
+epsilon_alphafold    RMSD =    0.931 (15297 atoms)
+gamma_alphafold      RMSD =    0.408 (13688 atoms)
+omicron_alphafold    RMSD =    0.336 (12839 atoms)
+wuhan2_alphafold     RMSD =    0.000 (19673 atoms)
+
+
+PyMOL>extra_fit *, alpha_alphafold, \
+PyMOL>    method=align, \
+PyMOL>    cycles=5, \
+PyMOL>    cutoff=2.0, \
+PyMOL>    mobile_state=-1, \
+PyMOL>    target_state=-1
+beta_alphafold       RMSD =    0.225 (12794 atoms)
+delta_alphafold      RMSD =    0.799 (14676 atoms)
+epsilon_alphafold    RMSD =    0.228 (13192 atoms)
+gamma_alphafold      RMSD =    0.840 (14835 atoms)
+omicron_alphafold    RMSD =    0.831 (15008 atoms)
+wuhan_alphafold      RMSD =    0.897 (15054 atoms)
+wuhan2_alphafold     RMSD =    0.897 (15054 atoms)
+
+PyMOL>extra_fit *, beta_alphafold, \
+PyMOL>    method=align, \
+PyMOL>    cycles=5, \
+PyMOL>    cutoff=2.0, \
+PyMOL>    mobile_state=-1, \
+PyMOL>    target_state=-1
+alpha_alphafold      RMSD =    0.225 (12794 atoms)
+delta_alphafold      RMSD =    0.830 (14723 atoms)
+epsilon_alphafold    RMSD =    0.186 (13050 atoms)
+gamma_alphafold      RMSD =    0.903 (15087 atoms)
+omicron_alphafold    RMSD =    0.825 (14826 atoms)
+wuhan_alphafold      RMSD =    0.941 (15188 atoms)
+wuhan2_alphafold     RMSD =    0.941 (15188 atoms)
+
+
+
+target delta
+
+alpha_alphafold      RMSD =    0.799 (14676 atoms)
+beta_alphafold       RMSD =    0.830 (14723 atoms)
+epsilon_alphafold    RMSD =    0.834 (14949 atoms)
+gamma_alphafold      RMSD =    0.227 (12805 atoms)
+omicron_alphafold    RMSD =    0.270 (12790 atoms)
+wuhan_alphafold      RMSD =    0.274 (12977 atoms)
+wuhan2_alphafold     RMSD =    0.274 (12977 atoms)
+
+
+
+PyMOL>extra_fit *, epsilon_alphafold, \
+PyMOL>    method=align, \
+PyMOL>    cycles=5, \
+PyMOL>    cutoff=2.0, \
+PyMOL>    mobile_state=-1, \
+PyMOL>    target_state=-1
+alpha_alphafold      RMSD =    0.228 (13192 atoms)
+beta_alphafold       RMSD =    0.186 (13050 atoms)
+delta_alphafold      RMSD =    0.834 (14949 atoms)
+gamma_alphafold      RMSD =    0.898 (15255 atoms)
+omicron_alphafold    RMSD =    0.875 (15049 atoms)
+wuhan_alphafold      RMSD =    0.931 (15297 atoms)
+wuhan2_alphafold     RMSD =    0.931 (15297 atoms)
+
+
+
+PyMOL>extra_fit *, gamma_alphafold, \
+PyMOL>    method=align, \
+PyMOL>    cycles=5, \
+PyMOL>    cutoff=2.0, \
+PyMOL>    mobile_state=-1, \
+PyMOL>    target_state=-1
+alpha_alphafold      RMSD =    0.840 (14835 atoms)
+beta_alphafold       RMSD =    0.903 (15087 atoms)
+delta_alphafold      RMSD =    0.227 (12805 atoms)
+epsilon_alphafold    RMSD =    0.898 (15255 atoms)
+omicron_alphafold    RMSD =    0.329 (12891 atoms)
+wuhan_alphafold      RMSD =    0.408 (13688 atoms)
+wuhan2_alphafold     RMSD =    0.408 (13688 atoms)
+
+
+
+PyMOL>extra_fit *, omicron_alphafold, \
+PyMOL>    method=align, \
+PyMOL>    cycles=5, \
+PyMOL>    cutoff=2.0, \
+PyMOL>    mobile_state=-1, \
+PyMOL>    target_state=-1
+alpha_alphafold      RMSD =    0.831 (15008 atoms)
+beta_alphafold       RMSD =    0.825 (14826 atoms)
+delta_alphafold      RMSD =    0.270 (12790 atoms)
+epsilon_alphafold    RMSD =    0.875 (15049 atoms)
+gamma_alphafold      RMSD =    0.329 (12891 atoms)
+wuhan_alphafold      RMSD =    0.336 (12839 atoms)
+wuhan2_alphafold     RMSD =    0.336 (12839 atoms)
+
+
+
+PyMOL>extra_fit *, wuhan_alphafold, \
+PyMOL>    method=align, \
+PyMOL>    cycles=5, \
+PyMOL>    cutoff=2.0, \
+PyMOL>    mobile_state=-1, \
+PyMOL>    target_state=-1
+11gram_13            RMSD =    0.469 (14023 atoms)
+11gram_19            RMSD =    0.974 (15197 atoms)
+11gram_22            RMSD =    0.260 (13221 atoms)
+11gram_2             RMSD =    0.298 (13093 atoms)
+11gram_35            RMSD =    0.271 (13108 atoms)
+11gram_40            RMSD =    0.281 (13673 atoms)
+11gram_45            RMSD =    0.270 (13202 atoms)
+11gram_4             RMSD =    0.868 (14793 atoms)
+11gram_82            RMSD =    0.227 (13258 atoms)
+11gram_87            RMSD =    0.216 (13351 atoms)
+alpha_alphafold      RMSD =    0.897 (15054 atoms)
+beta_alphafold       RMSD =    0.941 (15188 atoms)
+delta_alphafold      RMSD =    0.274 (12977 atoms)
+epsilon_alphafold    RMSD =    0.931 (15297 atoms)
+gamma_alphafold      RMSD =    0.408 (13688 atoms)
+omicron_alphafold    RMSD =    0.336 (12839 atoms)
+gen4_174             RMSD =    0.636 (13842 atoms)
+gen4_237             RMSD =    0.635 (14071 atoms)
+gen4_307             RMSD =    1.008 (15138 atoms)
+gen4_356             RMSD =    0.167 (12985 atoms)
+gen4_379             RMSD =    0.263 (13585 atoms)
+gen4_387             RMSD =    0.216 (13280 atoms)
+gen4_391             RMSD =    0.381 (13053 atoms)
+gen4_434             RMSD =    0.343 (13368 atoms)
+gen4_480             RMSD =    0.282 (13409 atoms)
+gen4_522             RMSD =    0.915 (15185 atoms)
+random75_0           RMSD =    0.221 (12935 atoms)
+random75_13          RMSD =    0.340 (12930 atoms)
+random75_41          RMSD =    0.386 (13233 atoms)
+random75_48          RMSD =    0.173 (13227 atoms)
+random75_50          RMSD =    0.216 (13313 atoms)
+random75_54          RMSD =    0.214 (13414 atoms)
+random75_59          RMSD =    0.982 (15254 atoms)
+random75_78          RMSD =    0.209 (13188 atoms)
+random75_82          RMSD =    0.222 (13344 atoms)
+random75_96          RMSD =    0.190 (13295 atoms)
+
+PyMOL>extra_fit *, 7n1u, \
+PyMOL>    method=align, \
+PyMOL>    cycles=5, \
+PyMOL>    cutoff=2.0, \
+PyMOL>    mobile_state=-1, \
+PyMOL>    target_state=-1
+11gram_13            RMSD =    2.096 (7586 atoms)
+11gram_19            RMSD =    2.108 (7513 atoms)
+11gram_22            RMSD =    2.074 (7488 atoms)
+11gram_2             RMSD =    2.050 (7479 atoms)
+11gram_35            RMSD =    2.119 (7523 atoms)
+11gram_40            RMSD =    2.112 (7633 atoms)
+11gram_45            RMSD =    2.109 (7609 atoms)
+11gram_4             RMSD =    2.116 (7520 atoms)
+11gram_82            RMSD =    2.137 (7626 atoms)
+11gram_87            RMSD =    2.144 (7634 atoms)
+alpha_alphafold      RMSD =    2.164 (7626 atoms)
+beta_alphafold       RMSD =    2.168 (7601 atoms)
+delta_alphafold      RMSD =    2.069 (7531 atoms)
+epsilon_alphafold    RMSD =    2.152 (7629 atoms)
+gamma_alphafold      RMSD =    2.043 (7540 atoms)
+omicron_alphafold    RMSD =    2.125 (7513 atoms)
+wuhan_alphafold      RMSD =    2.135 (7619 atoms)
+gen4_174             RMSD =    2.217 (7620 atoms)
+gen4_237             RMSD =    2.302 (7661 atoms)
+gen4_307             RMSD =    2.135 (7516 atoms)
+gen4_356             RMSD =    2.120 (7606 atoms)
+gen4_379             RMSD =    2.078 (7535 atoms)
+gen4_387             RMSD =    2.095 (7594 atoms)
+gen4_391             RMSD =    2.166 (7528 atoms)
+gen4_434             RMSD =    2.135 (7641 atoms)
+gen4_480             RMSD =    2.081 (7579 atoms)
+gen4_522             RMSD =    2.173 (7621 atoms)
+random75_0           RMSD =    2.114 (7535 atoms)
+random75_13          RMSD =    2.120 (7504 atoms)
+random75_41          RMSD =    2.137 (7604 atoms)
+random75_48          RMSD =    2.129 (7602 atoms)
+random75_50          RMSD =    2.074 (7545 atoms)
+random75_54          RMSD =    2.109 (7582 atoms)
+random75_59          RMSD =    2.211 (7622 atoms)
+random75_78          RMSD =    2.142 (7575 atoms)
+random75_82          RMSD =    2.105 (7576 atoms)
+random75_96          RMSD =    2.128 (7627 atoms)
